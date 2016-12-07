@@ -1,4 +1,4 @@
-A simple Deep Learning Examples
+A simple Machine Learning Examples
 ===
 
 This examples is based on [Google Developer Youtube Channel](https://www.youtube.com/watch?v=Gj0iyo265bc&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) 
